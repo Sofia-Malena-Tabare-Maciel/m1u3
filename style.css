@@ -1,0 +1,59 @@
+h3 {
+    font-size: 24px;
+    color:rgb(21, 53, 53);
+}
+
+p, ol, ul { 
+    font-size: 18px;
+    color:rgb(75, 62, 62);
+}
+
+h3.contacto {
+    color:darkred;
+    font-size: 20px;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-container-2,.flex-container-image {
+    text-align: center;
+    width:500px;
+    margin: 0 auto;
+}
+
+.titulos, subtitulos{
+    text-align: center;
+    margin: 0 auto;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.flex-container-2 {
+    background-color: antiquewhite;
+}
+
+#fondo {
+    background-image: url('images/flores.jpg');
+    background-size: cover;
+}
+
+p, ol, ul {
+    text-align: left;
+}
+
+.nacimiento {
+    text-align: center;
+}
+
+.flex-container-margen {
+    background-color: moccasin;
+    margin: 15px 30px 20px 15px;
+    padding: 15px 30px 20px 15px;
+    border: solid 1px black;
+}
+
+#instagram {
+    width: 15px;
+}
+/* esto es una tarea de css y html*/
